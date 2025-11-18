@@ -19,7 +19,7 @@ The `JSON` Schema defining the `POPxf` data format and its documentation can be 
 
 ## Validator and Parser
 
-A lightweight validator and parser for `POPxf` files can be found in the [parser](https://github.com/pop-xf/parser) repostiroy.
+A lightweight validator and parser for `POPxf` files can be found in the [parser](https://github.com/pop-xf/parser) repository.
 
 ## Examples
 
