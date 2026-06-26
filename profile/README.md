@@ -17,9 +17,15 @@ The Polynomial Observable Prediction Exchange Format, `POPxf`, is a structured, 
 
 The `JSON` Schema defining the `POPxf` data format and its documentation can be found in the [json-schemas](https://github.com/pop-xf/json-schemas) repository.
 
-## Validator and Parser
+## Validator and tools
 
-A lightweight validator and parser for `POPxf` files can be found in the [parser](https://github.com/pop-xf/parser) repository.
+A lightweight [validator](https://github.com/pop-xf/popxf.validator) and [tools](https://github.com/pop-xf/popxf.tools) for `POPxf` files can be found in the repository.
+
+All of them can be installed at once using:
+```
+pip install popxf
+```
+This will also add the command line validation tool `popxf_validate` to your path.
 
 ## Examples
 
